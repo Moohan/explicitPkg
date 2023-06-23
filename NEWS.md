@@ -1,3 +1,3 @@
 # explicitPkg (development version)
 
-* Initial CRAN submission.
+* Initial package.
